@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidUnalTicTacToe</string>
+    <string name="first_human">Vas primero</string>
+    <string name="turn_human">Tu turno</string>
+    <string name="turn_computer">Turno de Android</string>
+    <string name="result_tie">Empate</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_computer_wins">¡Ha ganado Android!</string>
+    <string name="menu_new_game">Nuevo Juego</string>
+    <string name="menu_reset_scores">Reiniciar puntajes</string>
+    <string name="human_score">Humano: </string>
+    <string name="tie_score">Empates: </string>
+    <string name="android_score">Android: </string>
+    <string name="difficulty_choose">Escoge un nivel de dificultad: </string>
+    <string name="difficulty_easy">Facil </string>
+    <string name="difficulty_harder">Medio</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="quit_question">¿Realmente desea salir?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+</resources>
